@@ -103,7 +103,7 @@ body {
   font-size: 20px;
 }
 .hero {
-  background-image: url('psina.jpeg');
+  background-image: url('pscina.jpeg');
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -112,4 +112,5 @@ body {
   justify-content: center;
   color: white;
 }
+
 
