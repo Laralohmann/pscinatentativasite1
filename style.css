@@ -102,3 +102,14 @@ body {
   cursor: pointer;
   font-size: 20px;
 }
+.hero {
+  background-image: url('psina.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
